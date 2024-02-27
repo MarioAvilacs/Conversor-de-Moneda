@@ -1,4 +1,4 @@
-# Conversor-de-Moneda
+# Conversor de Unidades
 Proyecto realizado en Java, implementando los conocimientos adquiridos.
 
 ## Tecnologías utilizadas:
